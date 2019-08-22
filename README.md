@@ -4,7 +4,7 @@
 
 NIST的定义：[The NIST Definition of Cloud Computing](http://faculty.winthrop.edu/domanm/csci411/Handouts/NIST.pdf)
 
-伯克利的观点：[A view of cloud computing](http://www.academia.edu/download/34578652/a_view_of_cc.pdf)
+伯克利的观点：[A view of cloud computing](https://s3.amazonaws.com/academia.edu.documents/34578652/a_view_of_cc.pdf?response-content-disposition=inline%3B%20filename%3DA_View_of_Cloud_Computing_Clearing_the_c.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20190822%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190822T022032Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d044845bbf78bfb45f27b6ce82f6f7bf03c3f6ecd8ed53573a5a9550f0709055)
 
 ## 虚拟化技术
 
