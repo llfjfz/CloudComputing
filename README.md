@@ -12,6 +12,13 @@ NIST的定义：[The NIST Definition of Cloud Computing](http://faculty.winthrop
 - [KVM](https://www.linux-kvm.org/page/Main_Page)
 - [Xen](https://xenproject.org/)
 
+## 分布式存储
+
+### 分布式算法
+
+- [Google Chubby](https://ai.google/research/pubs/pub27897)
+- [ZooKeeper](https://zookeeper.apache.org/)，参考文献：[[ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)].
+
 ## 课程使用平台及技术方案
 
 - [腾讯云](https://cloud.tencent.com/)
