@@ -29,7 +29,7 @@ your_email@example.com替换成你的Github邮箱地址。随后会让你键入�
 这里注意，建议不输入任何文件名，直接回车，这样就使用系统默认的设置。那么在“C:\Users\UserName”文件夹下就会创建.ssh文件夹，文件夹中生成“id_rsa”和“id_rsa.pub”两个文件，分别对应私钥和公钥。
 
 随后复制“id_rsa.pub”的内容到GitHub网站的Settings-->SSH and GPG keys中：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190820154002405.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xsZmpmeg==,size_16,color_FFFFFF,t_70 =600x350)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190820154002405.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xsZmpmeg==,size_16,color_FFFFFF,t_70)
 设置title（任意），并将“id_rsa.pub”的内容复制到“Key”之中。
 
 3. 测试SSH Key是否配置成功：
@@ -70,7 +70,7 @@ GitHub可以很方便地创建新的代码仓库“New Repository”：
 > git init
 
 2. 拷贝GitHub网站中的项目网址：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190820113457659.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xsZmpmeg==,size_16,color_FFFFFF,t_70 =450x230)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190820113457659.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xsZmpmeg==,size_16,color_FFFFFF,t_70)
 3. 添加远程代码仓库的URL：
 
 > git remote add origin `remote_repository_URL`
